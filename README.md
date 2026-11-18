@@ -15,4 +15,7 @@
 3. 刷新雨课堂视频页，点击“开始补播”。
 
 
+
 被网上脚本坑的任务完成不了，拿6.2Astra搓了一个，本人不懂代码，维护也只到我刷完全部课程。。后续需要的可以自己下载后让ai修改
+<img width="971" height="481" alt="image" src="https://github.com/user-attachments/assets/aa6da0da-aa0d-49fc-9d6f-0ee96a8ab198" />
+应付这种情况用的。应该也能自动化刷吧。。
